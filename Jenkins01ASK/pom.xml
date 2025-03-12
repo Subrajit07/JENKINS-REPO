@@ -6,11 +6,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.jenkins</groupId>
-	<artifactId>Jenkins01ASK</artifactId>
+	<artifactId>Jenkins02ASK</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<name>Jenkins01ASK Maven Webapp</name>
+	<name>Jenkins02ASK Maven Webapp</name>
 	<!-- FIXME change it to the project's website -->
 	<url>http://www.example.com</url>
 
@@ -39,7 +39,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>Jenkins01ASK</finalName>
+		<finalName>Jenkins02ASK</finalName>
 		<pluginManagement><!-- lock down plugins versions to avoid using Maven
 			defaults (may be moved to parent pom) -->
 			<plugins>
